@@ -798,7 +798,7 @@ if __name__ == "__main__":
     threading.Thread(target=servidor_video_superior, daemon=True).start()
     
     print("\n[LISTO] Todos los servicios iniciados")
-    print(f"\n🎥 Cámara frontal: puerto {TCP_PORT_VIDEO_FRONTAL}")
+    print(f"\nCámara frontal: puerto {TCP_PORT_VIDEO_FRONTAL}")
     print(f"Cámara superior: puerto {TCP_PORT_VIDEO_SUPERIOR}")
     print(f"Comandos UDP: puerto {UDP_PORT}")
     print(f"Status TCP: puerto {TCP_PORT_STATUS}")
@@ -807,4 +807,5 @@ if __name__ == "__main__":
     print(f"Logs: ./logs/servidor_logs.txt")
     print("\n[SERVIDOR] Presiona Ctrl+C para detener\n")
     
+
     servidor_video_frontal()
