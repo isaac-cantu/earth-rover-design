@@ -1,4 +1,3 @@
-# servidor_completo.py - Servidor mejorado con requisitos específicos
 import socket
 import threading
 import struct
@@ -809,3 +808,4 @@ if __name__ == "__main__":
     
 
     servidor_video_frontal()
+
