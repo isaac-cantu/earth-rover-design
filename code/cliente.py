@@ -1,4 +1,3 @@
-# cliente_completo.py - Cliente MEJORADO con interfaz responsive y requisitos completos
 import socket
 import struct
 import cv2
@@ -944,4 +943,5 @@ if __name__ == "__main__":
     root.protocol("WM_DELETE_WINDOW", app.cerrar)
     root.mainloop()
     
+
     print("\n[CLIENTE] Desconectado")
