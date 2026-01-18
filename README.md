@@ -6,13 +6,13 @@ The project was designed with modularity in mind, enabling future extensions suc
 
 ---
 
-## 📸 Rover Overview
+## Rover Overview
 
 ![1768196071728](https://github.com/user-attachments/assets/a0d199e3-364a-44f3-bf2a-b0ff918f46d1)
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
 
 The rover follows a distributed architecture:
 
@@ -46,7 +46,7 @@ The rover follows a distributed architecture:
 
 ---
 
-## 🎥 Vision System
+## Vision System
 
 * **Front USB Camera**
 
@@ -60,7 +60,7 @@ Both cameras use the **UVC standard**, allowing seamless integration with Linux-
 
 ---
 
-## ⚙️ Actuation System
+## Actuation System
 
 * **4× DC Gear Motors**
 
@@ -79,7 +79,7 @@ Both cameras use the **UVC standard**, allowing seamless integration with Linux-
 
 ---
 
-## 📡 Sensors
+## Sensors
 
 * **Distance Measurement**
 
@@ -94,7 +94,7 @@ Both cameras use the **UVC standard**, allowing seamless integration with Linux-
 
 ---
 
-## 🔋 Power System
+## Power System
 
 * **12 V 5200 mAh Li-ion Battery**
 * **LM2596 DC–DC Buck Converters**
@@ -108,7 +108,7 @@ Both cameras use the **UVC standard**, allowing seamless integration with Linux-
 
 ---
 
-## 🧱 Mechanical Design
+## Mechanical Design
 
 * 3D-printed structure (**PLA**)
 * **M2 and M3** screws
@@ -117,7 +117,7 @@ Both cameras use the **UVC standard**, allowing seamless integration with Linux-
 
 ---
 
-## 🧩 Technologies & Tools
+## Technologies & Tools
 
 * Raspberry Pi OS / Linux
 * Arduino
@@ -128,7 +128,7 @@ Both cameras use the **UVC standard**, allowing seamless integration with Linux-
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Autonomous navigation
 * SLAM (visual or LiDAR-based)
@@ -139,7 +139,7 @@ Both cameras use the **UVC standard**, allowing seamless integration with Linux-
 
 ---
 
-## 📁 Suggested Repository Structure
+## Suggested Repository Structure
 
 ```bash
 earth-rover-design/
@@ -158,16 +158,16 @@ earth-rover-design/
 
 ---
 
-## 📌 Project Status
+## Project Status
 
-🟢 Functional prototype
-🛠️ Ongoing development and improvements
+- Functional prototype
+- Ongoing development and improvements
 
 ---
 
-## 📜 License
+## License
 
-This project is released under the MIT License (can be adjusted if needed).
+This project is released under the MIT License.
 
 ---
 
